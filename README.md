@@ -24,4 +24,4 @@ It demonstrates how to scrape data from the web and analyze it using *Pandas*.
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/webscraping-with-pandas.git
+   git clone https://github.com/Mzamin1/webscrapping-with-pandas.git
